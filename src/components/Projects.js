@@ -15,7 +15,7 @@ const Projects = () => {
                     <p>
                         A peer assessment DAO where students submit their project work for review/marking by other students.
                     </p>
-                    <a href="https://uniswap.org/" target="_blank" className="button">Site</a>
+                    <a href="https://diploma-guild.on.fleek.co/" target="_blank" className="button">Site</a>
                     <a href="https://github.com/AlgoBloom/DiplomaDAO" target="_blank" className="button">Code</a>
                 </div>
                 {/* <div className="projects__card">
