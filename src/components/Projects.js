@@ -1,5 +1,5 @@
 // Import Assets
-import uniswap from '../assets/uniswap.png';
+import guild from '../assets/diploma-guild.png';
 import compound from '../assets/compound.png';
 import aave from '../assets/aave.png';
 
@@ -10,8 +10,8 @@ const Projects = () => {
             <div className="projects__cards">
 
                 <div className="projects__card">
-                    <h3>DiplomaDAO</h3>
-                    <img src={uniswap} alt="Uniswap Swap Page" />
+                    <h3>Diploma Guild DAO</h3>
+                    <img src={guild} alt="Diploma Guild Page" />
                     <p>
                         A peer assessment DAO where students submit their project work for review/marking by other students.
                     </p>
