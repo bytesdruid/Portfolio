@@ -18,10 +18,9 @@ const Projects = () => {
                     </p>
 
                     <a href="https://uniswap.org/" target="_blank" className="button">Site</a>
-                    <a href="https://github.com/Uniswap/v2-core" target="_blank" className="button">Code</a>
+                    <a href="https://github.com/AlgoBloom/DiplomaDAO" target="_blank" className="button">Code</a>
                 </div>
-
-                <div className="projects__card">
+                {/* <div className="projects__card">
                     <h3>Compound</h3>
                     <img src={compound} alt="Compound Landing Page" />
                     <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.
@@ -43,7 +42,7 @@ const Projects = () => {
 
                     <a href="https://aave.com/" target="_blank" className="button">Site</a>
                     <a href="https://github.com/aave/aave-v3-core" target="_blank" className="button">Code</a>
-                </div>
+                </div> */}
             </div>
         </section>
     );
