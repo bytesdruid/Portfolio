@@ -10,13 +10,11 @@ const Projects = () => {
             <div className="projects__cards">
 
                 <div className="projects__card">
-                    <h3>Uniswap</h3>
+                    <h3>DiplomaDAO</h3>
                     <img src={uniswap} alt="Uniswap Swap Page" />
-                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                        Facilis consectetur facere neque assumenda quasi aliquid,
-                        perferendis ratione rerum dolorem.
+                    <p>
+                        A peer assessment DAO where students submit their project work for review/marking by other students.
                     </p>
-
                     <a href="https://uniswap.org/" target="_blank" className="button">Site</a>
                     <a href="https://github.com/AlgoBloom/DiplomaDAO" target="_blank" className="button">Code</a>
                 </div>
