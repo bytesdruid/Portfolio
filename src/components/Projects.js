@@ -13,7 +13,7 @@ const Projects = () => {
                     <h3>Diploma Guild DAO</h3>
                     <img src={guild} alt="Diploma Guild Page" />
                     <p>
-                        A peer assessment DAO where students submit their project work for review/marking by other students.
+                        A peer assessment DAO where students submit their project work for grading by other students.
                     </p>
                     <a href="https://diploma-guild.on.fleek.co/" target="_blank" className="button">Site</a>
                     <a href="https://github.com/AlgoBloom/DiplomaDAO" target="_blank" className="button">Code</a>
